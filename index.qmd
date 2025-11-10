@@ -1,0 +1,19 @@
+---
+title: "Rancilio Silvia Notes"
+---
+
+- Model: Miss Silvia
+- Serial number: 60156063
+- This is a Silvia V3 purchased in 2012
+
+![Silvia label](/_sources/silvia-label.jpg')
+
+
+## Disassembly
+
+- <https://www.schneordesign.com/diy/diy-coffee/rancilio-silvia-mega-mod-part2-disassembly/>
+
+## Solenoid valve cleaning/replacing
+
+- <https://greatinfusions.com/great-infusions-coffee-blog/oh-no-my-rancilio-silvia-is-not-dispensing-espresso-any-more/>
+- <https://www.1st-line.com/technical-support/rancilio-technical-support/3-way-solenoid-valve-cleaning-changing-rancilio-silvia/>
